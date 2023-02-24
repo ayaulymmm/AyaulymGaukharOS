@@ -1,0 +1,2 @@
+# AyaulymGaukharOS
+OS final exam
